@@ -1,0 +1,1035 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"camera",
+				"cameraClass"
+			],
+			[
+				"speed",
+				"speed"
+			],
+			[
+				"des",
+				"desiredAngle"
+			],
+			[
+				"dest",
+				"destroyedFixtures"
+			],
+			[
+				"body",
+				"bodyType"
+			],
+			[
+				"game",
+				"gameobjects"
+			],
+			[
+				"gameobje",
+				"gameobject"
+			],
+			[
+				"tile",
+				"tilesize"
+			],
+			[
+				"pixel",
+				"pixelsPerMeter"
+			],
+			[
+				"loadMenu",
+				"loadMenuCallback"
+			],
+			[
+				"Time",
+				"time"
+			],
+			[
+				"fade",
+				"fadeOut"
+			],
+			[
+				"active",
+				"activeColor"
+			],
+			[
+				"menu",
+				"menubutton"
+			],
+			[
+				"scal",
+				"scaleHeight"
+			],
+			[
+				"test",
+				"testLabel"
+			],
+			[
+				"aci",
+				"activeColor"
+			],
+			[
+				"mouse",
+				"mouseActivates"
+			],
+			[
+				"acti",
+				"activate"
+			],
+			[
+				"act",
+				"activate"
+			],
+			[
+				"else",
+				"else"
+			],
+			[
+				"gui",
+				"guiobject"
+			],
+			[
+				"align",
+				"alignment"
+			],
+			[
+				"text",
+				"textInput"
+			],
+			[
+				"draw",
+				"drawstr"
+			],
+			[
+				"ca",
+				"currentCaratTime"
+			],
+			[
+				"cara",
+				"caratDelay"
+			],
+			[
+				"time",
+				"timetable"
+			],
+			[
+				"file",
+				"fileData"
+			],
+			[
+				"fil",
+				"fileData"
+			],
+			[
+				"load",
+				"loadMenuCallback"
+			],
+			[
+				"end",
+				"end"
+			],
+			[
+				"lyte",
+				"lytedevLogo_update"
+			],
+			[
+				"c",
+				"currentQuad"
+			],
+			[
+				"curren",
+				"currentlogo"
+			],
+			[
+				"lyted",
+				"lytedevLogo"
+			],
+			[
+				"graph",
+				"love.graphics.print"
+			],
+			[
+				"Gui",
+				"GUILayout"
+			],
+			[
+				"Network",
+				"NetworkPlayer"
+			],
+			[
+				"Remov",
+				"RemovePlayer"
+			],
+			[
+				"Player",
+				"PlayerJoinRequest"
+			],
+			[
+				"rec",
+				"love.graphics.rectangle"
+			],
+			[
+				"gra",
+				"love.graphics.circle"
+			],
+			[
+				"key",
+				"love.keypressed"
+			],
+			[
+				"grap",
+				"love.graphics.draw"
+			],
+			[
+				"or",
+				"originalTime"
+			],
+			[
+				"players",
+				"playersDownloaded"
+			],
+			[
+				"play",
+				"playersDownloaded"
+			],
+			[
+				"password",
+				"password"
+			],
+			[
+				"KEYS",
+				"KEY_MOUSE_OFFSET"
+			],
+			[
+				"clock",
+				"Clock"
+			],
+			[
+				"pr",
+				"priority"
+			],
+			[
+				"P",
+				"p"
+			],
+			[
+				"in",
+				"inventory"
+			],
+			[
+				"s",
+				"slot_name"
+			],
+			[
+				"slot",
+				"slot_name"
+			],
+			[
+				"gear",
+				"gear_bonus"
+			],
+			[
+				"pla",
+				"players"
+			],
+			[
+				"attack",
+				"attackers"
+			],
+			[
+				"id",
+				"id"
+			],
+			[
+				"target",
+				"target_enemy"
+			],
+			[
+				"to_",
+				"to_full_s"
+			],
+			[
+				"effec",
+				"effects_list"
+			],
+			[
+				"SLOT_HA",
+				"SLOT_HAND2"
+			],
+			[
+				"SLOT",
+				"SLOT_HAND1"
+			],
+			[
+				"SLOT_",
+				"SLOT_HAND1"
+			],
+			[
+				"GEAR",
+				"GEAR_FLAG_TWO_HANDED"
+			],
+			[
+				"dele",
+				"delete_flag"
+			],
+			[
+				"flag",
+				"flag"
+			],
+			[
+				"equip",
+				"equipped_gear"
+			],
+			[
+				"eq",
+				"equipped_gear"
+			],
+			[
+				"modx",
+				"modx"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"backg",
+				"background"
+			],
+			[
+				"rising",
+				"risingkc_modx"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"backgro",
+				"background-image"
+			],
+			[
+				"border-",
+				"border-radius"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"Falco",
+				"Falco"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"inner",
+				"inner-slideshow-container"
+			],
+			[
+				"wind",
+				"window_focus"
+			],
+			[
+				"false",
+				"false"
+			],
+			[
+				"pack",
+				"packageObject"
+			],
+			[
+				"lytedev",
+				"lytedev_modx"
+			],
+			[
+				"config",
+				"config_file"
+			],
+			[
+				"confi",
+				"config_str"
+			],
+			[
+				"include",
+				"include_str"
+			],
+			[
+				"short",
+				"short-post-metadata"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"list",
+				"listOwners"
+			],
+			[
+				"f",
+				"f	Anonymous Function"
+			],
+			[
+				"txt",
+				"txtp"
+			],
+			[
+				"char",
+				"characters"
+			],
+			[
+				"chara",
+				"character"
+			],
+			[
+				"player",
+				"playerState"
+			],
+			[
+				"playe",
+				"playerState"
+			],
+			[
+				"chrar",
+				"characters"
+			],
+			[
+				"j",
+				"j"
+			],
+			[
+				"charac",
+				"characters"
+			],
+			[
+				"ret",
+				"rectSize"
+			],
+			[
+				"rect",
+				"rectSize"
+			],
+			[
+				"_wrek",
+				"_wrek_encryption_key"
+			],
+			[
+				"encry",
+				"encrypted_salt"
+			],
+			[
+				"mario",
+				"marioImage"
+			],
+			[
+				"hash",
+				"hashword"
+			],
+			[
+				"print",
+				"printUserMenu"
+			],
+			[
+				"mysqlE",
+				"mysql_error"
+			],
+			[
+				"mult",
+				"multipleStr"
+			],
+			[
+				"FUNT",
+				"FUNCTIONS_FILE"
+			],
+			[
+				"Tex",
+				"Texture"
+			],
+			[
+				"Te",
+				"TextureName"
+			],
+			[
+				"Tile",
+				"TileTypes"
+			],
+			[
+				"Text",
+				"TextAlign"
+			],
+			[
+				"siz",
+				"sizey"
+			],
+			[
+				"bg",
+				"bg"
+			],
+			[
+				"Pa",
+				"Pattern"
+			],
+			[
+				"pale",
+				"paletteMaxY"
+			],
+			[
+				"Wrack",
+				"WrackEngine"
+			],
+			[
+				"Draw",
+				"DrawSize"
+			],
+			[
+				"TileTY",
+				"TileType"
+			],
+			[
+				"score",
+				"scorehash"
+			],
+			[
+				"tweet",
+				"tweetStr"
+			],
+			[
+				"ss",
+				"ss"
+			],
+			[
+				"tag_Play",
+				"tag_PlayerDeath"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "main.lua",
+			"settings":
+			{
+				"buffer_size": 3790,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Love Project",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Daniel/Google Drive/projects/love2d/infantryclone/subclass/logo.lua",
+		"/C/Users/Daniel/Documents/Visual Studio 2012/Projects/Warp Edge/Warp Edge/AnimationSet.hpp",
+		"/C/Users/Daniel/Documents/Visual Studio 2012/Projects/Warp Edge/Warp Edge/Animation.hpp",
+		"/C/Users/Daniel/Documents/Visual Studio 2012/Projects/Warp Edge/Warp Edge/GameObject.hpp",
+		"/C/Users/Daniel/Documents/Visual Studio 2012/Projects/Warp Edge/Warp Edge/GameObject.cpp",
+		"/C/Users/Daniel/Google Drive/projects/love2d/infantryclone/scenes/intro.lua",
+		"/C/Users/Daniel/Documents/Visual Studio 2012/Projects/Warp Edge/Warp Edge/Main.cpp",
+		"/C/Users/Daniel/Documents/Visual Studio 2012/Projects/Warp Edge/Warp Edge/AnimationSet.cpp",
+		"/C/Users/Daniel/Documents/Visual Studio 2012/Projects/Warp Edge/Warp Edge/Animation.cpp",
+		"/C/Users/Daniel/Google Drive/projects/love2d/infantryclone/gui/guiobject.lua",
+		"/C/Users/Daniel/Google Drive/projects/love2d/infantryclone/gui/label.lua",
+		"/C/Users/Daniel/Google Drive/projects/love2d/infantryclone/menus/main.lua",
+		"/C/Users/Daniel/Google Drive/projects/love2d/infantryclone/menus/menu.lua",
+		"/C/Users/Daniel/Google Drive/projects/love2d/infantryclone/scenes/game.lua",
+		"/C/Users/Daniel/Google Drive/projects/love2d/infantryclone/scenes/menu.lua",
+		"/C/Users/Daniel/Google Drive/projects/love2d/infantryclone/subclass/camera.lua",
+		"/C/Users/Daniel/Google Drive/projects/love2d/infantryclone/main.lua",
+		"/C/Users/Daniel/Google Drive/projects/love2d/infantryclone/moduletest.sublime-project",
+		"/C/Users/Daniel/Google Drive/projects/love2d/infantryclone/menus/quit.lua",
+		"/C/Users/Daniel/Google Drive/projects/love2d/infantryclone/menus/settings.lua",
+		"/C/Users/Daniel/Google Drive/projects/love2d/infantryclone/menus/title.lua",
+		"/C/Users/Daniel/Google Drive/projects/love2d/infantryclone/subclass/fader.lua",
+		"/C/Users/Daniel/Google Drive/projects/love2d/infantryclone/conf.lua",
+		"/C/Users/Daniel/Google Drive/projects/love2d/infantryclone/utils.lua",
+		"/C/Users/Daniel/Google Drive/projects/love2d/infantryclone/gameobject/creature.lua",
+		"/C/Users/Daniel/Google Drive/projects/love2d/moduletest/main.lua",
+		"/C/Users/Daniel/Google Drive/projects/love2d/moduletest/gameobject/tile.lua",
+		"/C/Users/Daniel/Google Drive/projects/love2d/moduletest/gameobject/gameobject.lua",
+		"/C/Users/Daniel/Google Drive/projects/love2d/moduletest/gameobject/creature.lua",
+		"/C/Users/Daniel/Google Drive/projects/love2d/moduletest/scenes/game.lua",
+		"/C/Users/Daniel/Documents/GitHub/game-off-2012/README.md",
+		"/C/Users/Daniel/Google Drive/projects/love2d/moduletest/conf.lua",
+		"/C/Users/Daniel/Google Drive/projects/love2d/moduletest/scenes/menu.lua",
+		"/C/Users/Daniel/Google Drive/projects/love2d/moduletest/subclass/gamesettings.lua",
+		"/C/Users/Daniel/Google Drive/projects/love2d/moduletest/subclass/tile.lua",
+		"/C/Users/Daniel/Google Drive/projects/love2d/moduletest/subclass/gameobject.lua",
+		"/C/Users/Daniel/Google Drive/projects/love2d/moduletest/menus/quit.lua",
+		"/C/Users/Daniel/Google Drive/projects/love2d/moduletest/menus/main.lua",
+		"/C/Users/Daniel/Google Drive/projects/love2d/moduletest/subclass/fader.lua",
+		"/C/Users/Daniel/Google Drive/projects/love2d/moduletest/gui/label.lua",
+		"/C/Users/Daniel/Google Drive/projects/love2d/moduletest/gui/button.lua",
+		"/C/Users/Daniel/Google Drive/projects/love2d/moduletest/gui/guiobject.lua",
+		"/C/Users/Daniel/Google Drive/projects/love2d/moduletest/menus/title.lua",
+		"/C/Users/Public/Applications/irssi/config",
+		"/C/Users/Daniel/Google Drive/projects/love2d/moduletest/utils.lua",
+		"/C/Users/Public/Games/Minecraft/bin/server.properties",
+		"/C/Users/Daniel/Google Drive/projects/love2d/moduletest/menus/settings.lua",
+		"/C/Users/Daniel/Google Drive/projects/love2d/moduletest/moduletest.sublime-project",
+		"/C/Users/Daniel/Google Drive/projects/love2d/moduletest/scenes/scene.lua",
+		"/C/Users/Daniel/Google Drive/projects/love2d/moduletest/scenes/play.lua",
+		"/C/Users/Daniel/Google Drive/projects/love2d/moduletest/menus/menu.lua",
+		"/C/Users/Daniel/Google Drive/projects/love2d/moduletest/scenes/intro.lua",
+		"/C/Users/Daniel/Google Drive/projects/love2d/moduletest/scenes/guimenu.lua",
+		"/C/Users/Daniel/Documents/Visual Studio 2010/Projects/Warp Edge/Warp Edge/Warp EdgeContent/fonts/default.spritefont",
+		"/C/Users/Daniel/Documents/Visual Studio 2010/Projects/Warp Edge/Warp Edge/Warp EdgeContent/fonts/pixelserif.spritefont",
+		"/C/Users/Daniel/Google Drive/projects/love2d/moduletest/menus/menuitems/label.lua",
+		"/C/Users/Daniel/Google Drive/projects/love2d/moduletest/menus/menuitems/button.lua",
+		"/C/Users/Daniel/Google Drive/projects/love2d/moduletest/menus/menuitems/menuitem.lua",
+		"/C/Users/Daniel/Google Drive/projects/love2d/moduletest/menus/menuitems/textarea.lua",
+		"/C/Users/Daniel/Google Drive/projects/love2d/moduletest/menus/play.lua",
+		"/C/Users/Daniel/Google Drive/projects/love2d/test/networktest.lua",
+		"/C/Users/Daniel/Google Drive/projects/love2d/moduletest/settings.txt",
+		"/C/Users/Daniel/Google Drive/projects/love2d/moduletest/subclass/logo.lua",
+		"/C/Users/Daniel/AppData/Roaming/LOVE/moduletest/settings.lua",
+		"/C/Users/Public/Applications/Sublime/Data/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Daniel/Google Drive/projects/love2d/test/main.lua",
+		"/C/Users/Daniel/Documents/projects/love2d/moduletest/menus/menu.lua",
+		"/C/Users/Daniel/Documents/projects/love2d/moduletest/moduletest.sublime-project",
+		"/C/Users/Daniel/Documents/projects/love2d/moduletest/scenes/intro.lua",
+		"/C/Users/Daniel/Documents/projects/love2d/moduletest/subclass/logo.lua",
+		"/C/Users/Daniel/Documents/projects/love2d/moduletest/main.lua",
+		"/C/Users/Daniel/Documents/projects/love2d/moduletest/utils.lua",
+		"/C/Users/Daniel/Documents/projects/love2d/moduletest/scenes/menu.lua",
+		"/C/Users/Daniel/Documents/projects/love2d/moduletest/menus/quitmenu.lua",
+		"/C/Users/Daniel/Documents/projects/love2d/moduletest/menus/settingsmenu.lua",
+		"/C/Users/Daniel/Documents/projects/love2d/moduletest/menus/mainmenu.lua",
+		"/C/Users/Daniel/Documents/projects/love2d/moduletest/menus/playmenu",
+		"/C/Users/Daniel/Documents/projects/love2d/moduletest/menus/menuitems/label.lua",
+		"/C/Users/Daniel/Documents/projects/love2d/moduletest/menus/menuitems/button.lua",
+		"/C/Users/Daniel/Documents/projects/love2d/moduletest/menus/menuitems/menuitem.lua",
+		"/C/Users/Public/Applications/Sublime/Data/Packages/SublimeLove/Love.sublime-build",
+		"/C/Users/Daniel/Documents/projects/love2d/moduletest/scenes/mainmenu.lua",
+		"/C/Users/Public/Applications/Sublime/Data/Packages/SublimeLove/Love.tmLanguage",
+		"/C/Users/Daniel/Documents/projects/love2d/moduletest/scenes/settingsmenu.lua",
+		"/C/Users/Daniel/Documents/projects/love2d/moduletest/scenes/scene.lua",
+		"/C/Users/Daniel/Documents/projects/love2d/moduletest/menus/top.lua",
+		"/C/Users/Daniel/Documents/projects/love2d/moduletest/subclass/keypress.lua",
+		"/C/Users/Daniel/Documents/MPFPSTest1/Assets/Scripts/MultiplayerManager.cs",
+		"/C/Users/Daniel/Documents/MPFPSTest1/Assets/Scripts/MenuManager.cs",
+		"/C/Users/Daniel/Documents/MPFPSTest1/Assets/Scripts/Messenger/Callback.cs",
+		"/C/Users/Daniel/Documents/MPFPSTest1/Assets/Scripts/Messenger.cs",
+		"/C/Users/Daniel/Documents/projects/unity/shootertest/Assets/Scripts/MouseRotationControl.js",
+		"/C/Users/Daniel/Documents/projects/unity/shootertest/Assets/Scripts/Network/Connections.js",
+		"/C/Users/Daniel/Documents/projects/unity/shootertest/Assets/Scripts/Network/ConnectionGUI.js",
+		"/C/Users/Daniel/Documents/projects/unity/shootertest/Assets/Scripts/GUI/MainMenu.js",
+		"/C/Users/Daniel/Documents/projects/unity/shootertest/Assets/Scripts/KeyboardMovementControl.js",
+		"/C/Users/Daniel/Documents/projects/unity/shootertest/Assets/Scripts/Control.js",
+		"/C/Users/Daniel/Documents/projects/unity/Demo01/Assets/Move.js",
+		"/C/Users/Daniel/Documents/projects/unity/Demo01/Assets/Shoot.js",
+		"/C/Users/Daniel/Documents/projects/unity/Demo01/Assets/Bob.js",
+		"/C/Users/Daniel/Documents/projects/unity/Demo01/Assets/Bob.cs",
+		"/C/Users/Daniel/Documents/projects/love2d/moduletest/subclass/inputbinds.lua",
+		"/C/Users/Daniel/Documents/projects/love2d/moduletest/systems/input.lua",
+		"/C/Users/Daniel/Downloads/kurosuke/scenes/intro.lua",
+		"/C/Users/Daniel/Documents/projects/love2d/testserver/server.lua",
+		"/C/Users/Daniel/Downloads/kurosuke/subclass/class.lua",
+		"/C/Users/Daniel/Downloads/kurosuke/main.lua",
+		"/C/Users/Daniel/Documents/projects/love2d/testserver/...niel/Documents/projects/love2d/testserver/server.lua",
+		"/C/Users/Daniel/Documents/projects/love2d/test/server.lua",
+		"/C/Users/Public/Applications/Sublime/Data/Packages/LuaLoveHybrid/Lua.tmLanguage",
+		"/C/Users/Public/Applications/Sublime/Data/Packages/LuaLoveHybrid/Love.tmLanguage",
+		"/C/Users/Daniel/Documents/projects/love2d/test/physicstest.lua",
+		"/C/Users/Daniel/AppData/Local/Temp/7zEEE30.tmp/e0102.lua",
+		"/C/Users/Daniel/Downloads/examples.love",
+		"/C/Users/Public/Applications/Sublime/Data/Packages/C++/C++.sublime-build",
+		"/C/Users/Public/Applications/Sublime/Data/Packages/User/Love2D.sublime-build",
+		"/C/Users/Daniel/Google Drive/GameDev/Newborn/newborn.py",
+		"/C/Users/Daniel/Google Drive/GameDev/Newborn/test.py",
+		"/C/Users/Public/Applications/Sublime/Data/Packages/Lua/Lua (Love2D).tmLanguage",
+		"/C/Users/Daniel/Documents/School/Stanford Online/Intro to Computer Networks/Scripts/day_app_answer.py",
+		"/C/Users/Daniel/Downloads/google (1).csv",
+		"/C/Users/Daniel/Documents/Visual Studio 2010/Projects/Platformer/Platformer/Debug/resource.res",
+		"/C/Users/Daniel/password",
+		"/C/Users/Daniel/Documents/Visual Studio 2010/Projects/Platformer/Platformer/Main.cpp",
+		"/C/Users/Daniel/Documents/Visual Studio 2010/Projects/Platformer/Platformer/Assets.cpp",
+		"/C/Users/Daniel/Documents/projects/flasktest/__init__.py",
+		"/C/Users/Daniel/Documents/projects/Class_Source.cpp",
+		"/C/Users/Daniel/Documents/projects/Namespace_Header.h"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			" </p>",
+			"\n\n",
+			"\\n\\w",
+			"16",
+			"71",
+			"\n",
+			"scene",
+			"menus.settings",
+			"guimenu",
+			"playButton",
+			"menus.main",
+			"getStr",
+			"guiobject.",
+			"label",
+			"callback",
+			"button",
+			"love",
+			"white",
+			"whitespace",
+			"show",
+			"tab",
+			"new",
+			"print",
+			"menus.mainmenu",
+			"intro",
+			"top",
+			"print",
+			"||",
+			"self.activeItem",
+			"Button",
+			"v = ",
+			"ground",
+			"quit",
+			"leave",
+			"quit",
+			"join",
+			"JOIN",
+			"hili",
+			":",
+			"ownmsgnick = ",
+			"time",
+			"sb-item",
+			"%c",
+			"time",
+			"bar",
+			"login",
+			"log",
+			"    ",
+			"'",
+			",",
+			"tuple, array",
+			"is_array(other)",
+			"instanceof",
+			"range",
+			"event",
+			"\\n",
+			"true",
+			"false",
+			"nil",
+			"@",
+			"true",
+			"false",
+			"nil",
+			"@",
+			";",
+			"cpp",
+			"span",
+			"}\n",
+			"rising_",
+			"DELETE FROM `rising_",
+			"EXISTS `rising_",
+			"f70",
+			"\n\n",
+			"lytedev",
+			"d40",
+			"11px",
+			"? ",
+			"- ",
+			"\n\n",
+			"page",
+			"font-weight",
+			"3deg",
+			"/xampp",
+			"#666",
+			"#555",
+			"#666",
+			"#555",
+			"diamond",
+			"A",
+			"bag",
+			"giving",
+			"alchem",
+			"plate",
+			"content",
+			":hover",
+			"\n\n",
+			";",
+			"\n\n",
+			"C:/Users/Public/Applications/xampp/htdocs/lytedev/",
+			"\n\n",
+			"\\",
+			"/lytedev/",
+			"C:/Users/Public/Applications/xampp/htdocs/lytedev/",
+			"\n\n",
+			"publich",
+			"public",
+			"/home/public_html/",
+			"/lytedev/",
+			"C:/Users/Public/Applications/xampp/htdocs/lytedev/",
+			"/home/lytedev/public_html/",
+			"/home/public_html",
+			"/lytedev/",
+			"C:/Users/Public/Applications/xampp/htdocs/",
+			"/lytedev/",
+			"C:/Users/Public/Applications/xampp/htdocs/",
+			"/lytedev/",
+			"\n\n",
+			"/home/lytedev/public_html",
+			"website",
+			"clear",
+			"111",
+			"input",
+			"btn",
+			"class=\"input-xlarge\" ",
+			"border-rad",
+			"	",
+			"background",
+			"clear"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"</p>\n\n</p>",
+			"</p>\n\n<p>",
+			" ",
+			"\n\n",
+			"menus.quit",
+			"backButton",
+			"menus.settings",
+			"gui.",
+			"button",
+			"onSelect",
+			"textarea",
+			"menus.quitmenu",
+			"mainmenu",
+			"or",
+			"ni",
+			"block",
+			"leftwall",
+			"rightwall",
+			"	",
+			"",
+			",\n",
+			"tuple, list",
+			"isinstance(other, (tuple, array))",
+			"isinstance",
+			"e",
+			"True",
+			"False",
+			"None",
+			"self.",
+			"True",
+			"False",
+			"None",
+			"self.",
+			";\n",
+			"\n",
+			"rkc",
+			"DELETE FROM `rkc",
+			"EXISTS `rkc",
+			"d40",
+			"\n",
+			"f70",
+			"",
+			"\n",
+			"5deg",
+			"/Applications/xampp",
+			"/Applications/xampp/mysql",
+			"#444",
+			"#333",
+			"#555",
+			"#444",
+			"C",
+			"B",
+			"Bag",
+			"Bag\n",
+			"\n",
+			";\n",
+			"\n;\n",
+			"\n",
+			"/home/lytedev/public_html/",
+			"\n",
+			"/",
+			"/\n",
+			"/home/lytedev/public_html/\n",
+			"\n",
+			"/home/lytedev/public_html/",
+			"/",
+			"/home/lytedev/public_html/",
+			"/",
+			"/home/lytedev/public_html",
+			"/",
+			"/home/lytedev/public_html/",
+			"/",
+			"\n",
+			"/public_html",
+			"",
+			"    ",
+			"o",
+			"\no",
+			"i",
+			"olc",
+			"-",
+			"-\n-\n-",
+			"\\\\",
+			"",
+			"600px",
+			"Buttons.Big",
+			"WarpEdge",
+			"speed",
+			"level",
+			"Game.Level",
+			"Game.Level\nGame.Level",
+			"WrackEngine.Graphics",
+			"Menu",
+			"Game.Menu",
+			"bigButton",
+			"0077ff",
+			"0088ff",
+			"&",
+			"580px",
+			"660px",
+			"720px",
+			"760px"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "main.lua",
+					"settings":
+					{
+						"buffer_size": 3790,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Lua/Lua.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.exec":
+	{
+		"height": 130.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 207.0,
+	"status_bar_visible": true
+}
